@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projects &#8211; Bloomrate</title>
+	<atom:link href="http://bloomrate.ml/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>http://bloomrate.ml</link>
+	<description>Let&#039;s grow your business</description>
+	<lastBuildDate>Mon, 24 Oct 2016 06:27:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>http://bloomrate.ml/wp-content/uploads/2020/06/cropped-round-32x32.png</url>
+	<title>Projects &#8211; Bloomrate</title>
+	<link>http://bloomrate.ml</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Smart Gadget</title>
+		<link>http://bloomrate.ml/portfolio/smart-gadget/</link>
+					<comments>http://bloomrate.ml/portfolio/smart-gadget/#respond</comments>
+		
+		<dc:creator><![CDATA[dale]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2016 06:27:54 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.themegrill.com/flash-one-page/?post_type=portfolio&#038;p=206</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://bloomrate.ml/portfolio/smart-gadget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iPhone Gadget</title>
+		<link>http://bloomrate.ml/portfolio/iphone-gadget/</link>
+					<comments>http://bloomrate.ml/portfolio/iphone-gadget/#respond</comments>
+		
+		<dc:creator><![CDATA[dale]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2016 06:27:31 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.themegrill.com/flash-one-page/?post_type=portfolio&#038;p=205</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://bloomrate.ml/portfolio/iphone-gadget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hero Gadget</title>
+		<link>http://bloomrate.ml/portfolio/hero-gadget/</link>
+					<comments>http://bloomrate.ml/portfolio/hero-gadget/#respond</comments>
+		
+		<dc:creator><![CDATA[dale]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2016 06:27:05 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.themegrill.com/flash-one-page/?post_type=portfolio&#038;p=204</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://bloomrate.ml/portfolio/hero-gadget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung Smart Phone</title>
+		<link>http://bloomrate.ml/portfolio/samsung-smart-phone/</link>
+					<comments>http://bloomrate.ml/portfolio/samsung-smart-phone/#respond</comments>
+		
+		<dc:creator><![CDATA[dale]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2016 06:26:37 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.themegrill.com/flash-one-page/?post_type=portfolio&#038;p=203</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://bloomrate.ml/portfolio/samsung-smart-phone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Classic Camera</title>
+		<link>http://bloomrate.ml/portfolio/classic-camera/</link>
+					<comments>http://bloomrate.ml/portfolio/classic-camera/#respond</comments>
+		
+		<dc:creator><![CDATA[dale]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2016 06:25:57 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.themegrill.com/flash-one-page/?post_type=portfolio&#038;p=197</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://bloomrate.ml/portfolio/classic-camera/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Drone For Capture</title>
+		<link>http://bloomrate.ml/portfolio/drone-for-capture/</link>
+					<comments>http://bloomrate.ml/portfolio/drone-for-capture/#respond</comments>
+		
+		<dc:creator><![CDATA[dale]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2016 06:06:08 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.themegrill.com/flash-one-page/?post_type=portfolio&#038;p=195</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://bloomrate.ml/portfolio/drone-for-capture/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
