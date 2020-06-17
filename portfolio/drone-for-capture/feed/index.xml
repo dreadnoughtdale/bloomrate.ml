@@ -19,3 +19,14 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Lazy Loading (feed)
+Minified using disk
+Database Caching using disk
+
+Served from: localhost @ 2020-06-17 23:22:03 by W3 Total Cache
+-->

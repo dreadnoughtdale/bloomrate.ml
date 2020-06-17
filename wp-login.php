@@ -93,3 +93,13 @@ var userProfileL10n = {"warn":"Your new password has not been saved.","warnWeak"
 	</body>
 	</html>
 	
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Requested URI is rejected) 
+Lazy Loading
+Minified using disk (Request URI is rejected)
+Database Caching using disk (Request-wide Request URI is rejected)
+
+Served from: localhost @ 2020-06-17 23:22:11 by W3 Total Cache
+-->
