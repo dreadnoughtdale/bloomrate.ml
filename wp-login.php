@@ -101,5 +101,5 @@ Lazy Loading
 Minified using disk (Request URI is rejected)
 Database Caching using disk (Request-wide Request URI is rejected)
 
-Served from: localhost @ 2020-06-17 23:22:11 by W3 Total Cache
+Served from: localhost @ 2020-06-17 23:37:40 by W3 Total Cache
 -->
