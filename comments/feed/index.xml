@@ -11,7 +11,7 @@
 	<atom:link href="http://bloomrate.ml/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://bloomrate.ml</link>
 	<description>Let&#039;s grow your business</description>
-	<lastBuildDate>Wed, 17 Jun 2020 15:36:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jul 2020 18:59:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -28,5 +28,5 @@ Lazy Loading (feed)
 Minified using disk
 Database Caching 1/13 queries in 0.008 seconds using disk
 
-Served from: localhost @ 2020-06-17 23:37:24 by W3 Total Cache
+Served from: localhost @ 2020-07-15 03:00:38 by W3 Total Cache
 -->

@@ -12,7 +12,7 @@
 	<atom:link href="http://bloomrate.ml/author/dale/feed/" rel="self" type="application/rss+xml" />
 	<link>http://bloomrate.ml</link>
 	<description>Let&#039;s grow your business</description>
-	<lastBuildDate>Wed, 05 Oct 2016 10:11:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jul 2020 18:11:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Living In the Beach</title>
 		<link>http://bloomrate.ml/living-in-the-beach/</link>
-					<comments>http://bloomrate.ml/living-in-the-beach/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2016 10:11:11 +0000</pubDate>
@@ -47,15 +46,12 @@
 <p>The post <a rel="nofollow" href="http://bloomrate.ml/living-in-the-beach/">Living In the Beach</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ml/living-in-the-beach/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fire For Cold Weather</title>
 		<link>http://bloomrate.ml/make-reusable-bag/</link>
-					<comments>http://bloomrate.ml/make-reusable-bag/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2016 10:47:53 +0000</pubDate>
@@ -72,15 +68,12 @@
 <p>The post <a rel="nofollow" href="http://bloomrate.ml/make-reusable-bag/">Fire For Cold Weather</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ml/make-reusable-bag/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Build a Beautiful Website</title>
 		<link>http://bloomrate.ml/tips-for-artistic-people-3/</link>
-					<comments>http://bloomrate.ml/tips-for-artistic-people-3/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Mon, 03 Oct 2016 05:02:41 +0000</pubDate>
@@ -97,15 +90,12 @@
 <p>The post <a rel="nofollow" href="http://bloomrate.ml/tips-for-artistic-people-3/">Build a Beautiful Website</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ml/tips-for-artistic-people-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hard Work For Success</title>
 		<link>http://bloomrate.ml/tips-for-artistic-people-2/</link>
-					<comments>http://bloomrate.ml/tips-for-artistic-people-2/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Mon, 03 Oct 2016 05:01:52 +0000</pubDate>
@@ -122,15 +112,12 @@
 <p>The post <a rel="nofollow" href="http://bloomrate.ml/tips-for-artistic-people-2/">Hard Work For Success</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ml/tips-for-artistic-people-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>TIPS FOR ARTISTIC PEOPLE</title>
 		<link>http://bloomrate.ml/tips-for-artistic-people/</link>
-					<comments>http://bloomrate.ml/tips-for-artistic-people/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Mon, 03 Oct 2016 05:00:44 +0000</pubDate>
@@ -147,8 +134,6 @@
 <p>The post <a rel="nofollow" href="http://bloomrate.ml/tips-for-artistic-people/">TIPS FOR ARTISTIC PEOPLE</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ml/tips-for-artistic-people/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -163,5 +148,5 @@ Lazy Loading (feed)
 Minified using disk
 Database Caching using disk
 
-Served from: localhost @ 2020-06-17 23:37:45 by W3 Total Cache
+Served from: localhost @ 2020-07-15 03:01:01 by W3 Total Cache
 -->
