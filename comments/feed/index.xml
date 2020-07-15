@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Bloomrate	</title>
-	<atom:link href="http://bloomrate.ml/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://bloomrate.ml</link>
+	<atom:link href="http://bloomrate.ga/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://bloomrate.ga</link>
 	<description>Let&#039;s grow your business</description>
 	<lastBuildDate>Tue, 14 Jul 2020 18:59:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -26,7 +26,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using disk: enhanced (Page is feed) 
 Lazy Loading (feed)
 Minified using disk
-Database Caching 1/13 queries in 0.008 seconds using disk
+Database Caching 1/13 queries in 0.009 seconds using disk
 
-Served from: localhost @ 2020-07-15 03:00:38 by W3 Total Cache
+Served from: localhost @ 2020-07-15 18:31:08 by W3 Total Cache
 -->

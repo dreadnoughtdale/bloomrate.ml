@@ -9,18 +9,18 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Bloomrate &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='http://bloomrate.ml/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='http://bloomrate.ml/wp-includes/css/buttons.min.css?ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='http://bloomrate.ml/wp-admin/css/forms.min.css?ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='http://bloomrate.ml/wp-admin/css/l10n.min.css?ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='http://bloomrate.ml/wp-admin/css/login.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://bloomrate.ga/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://bloomrate.ga/wp-includes/css/buttons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://bloomrate.ga/wp-admin/css/forms.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://bloomrate.ga/wp-admin/css/l10n.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://bloomrate.ga/wp-admin/css/login.min.css?ver=5.4.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
-	<link rel="icon" href="http://bloomrate.ml/wp-content/uploads/2020/06/cropped-round-32x32.png" sizes="32x32" />
-<link rel="icon" href="http://bloomrate.ml/wp-content/uploads/2020/06/cropped-round-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="http://bloomrate.ml/wp-content/uploads/2020/06/cropped-round-180x180.png" />
-<meta name="msapplication-TileImage" content="http://bloomrate.ml/wp-content/uploads/2020/06/cropped-round-270x270.png" />
+	<link rel="icon" href="http://bloomrate.ga/wp-content/uploads/2020/06/cropped-round-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://bloomrate.ga/wp-content/uploads/2020/06/cropped-round-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://bloomrate.ga/wp-content/uploads/2020/06/cropped-round-180x180.png" />
+<meta name="msapplication-TileImage" content="http://bloomrate.ga/wp-content/uploads/2020/06/cropped-round-270x270.png" />
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
@@ -29,7 +29,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="http://bloomrate.ml/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="http://bloomrate.ga/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" />
@@ -47,48 +47,48 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-									<input type="hidden" name="redirect_to" value="http://bloomrate.ml/wp-admin/" />
+									<input type="hidden" name="redirect_to" value="http://bloomrate.ga/wp-admin/" />
 									<input type="hidden" name="testcookie" value="1" />
 			</p>
 		</form>
 
 					<p id="nav">
-									<a href="http://bloomrate.ml/wp-login.php?action=lostpassword">Lost your password?</a>
+									<a href="http://bloomrate.ga/wp-login.php?action=lostpassword">Lost your password?</a>
 								</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
-				<p id="backtoblog"><a href="http://bloomrate.ml/">
+				<p id="backtoblog"><a href="http://bloomrate.ga/">
 		&larr; Back to Bloomrate		</a></p>
 			</div>
-	<script type='text/javascript' src='http://bloomrate.ml/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script type='text/javascript' src='http://bloomrate.ml/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+	<script type='text/javascript' src='http://bloomrate.ga/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://bloomrate.ga/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"http:\/\/bloomrate.ml\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"http:\/\/bloomrate.ga\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://bloomrate.ml/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bloomrate.ga/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://bloomrate.ml/wp-admin/js/password-strength-meter.min.js?ver=5.4.2'></script>
-<script type='text/javascript' src='http://bloomrate.ml/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://bloomrate.ga/wp-admin/js/password-strength-meter.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://bloomrate.ga/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/bloomrate.ml\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://bloomrate.ml/wp-includes/js/wp-util.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://bloomrate.ga/wp-includes/js/wp-util.min.js?ver=5.4.2'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var userProfileL10n = {"warn":"Your new password has not been saved.","warnWeak":"Confirm use of weak password","show":"Show","hide":"Hide","cancel":"Cancel","ariaShow":"Show password","ariaHide":"Hide password"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://bloomrate.ml/wp-admin/js/user-profile.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://bloomrate.ga/wp-admin/js/user-profile.min.js?ver=5.4.2'></script>
 	<div class="clear"></div>
 	</body>
 	</html>
@@ -101,5 +101,5 @@ Lazy Loading
 Minified using disk (Request URI is rejected)
 Database Caching using disk (Request-wide Request URI is rejected)
 
-Served from: localhost @ 2020-07-15 03:00:56 by W3 Total Cache
+Served from: localhost @ 2020-07-15 18:31:20 by W3 Total Cache
 -->
