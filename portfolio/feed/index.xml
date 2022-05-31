@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Projects &#8211; Bloomrate</title>
-	<atom:link href="http://bloomrate.ga/portfolio/feed/" rel="self" type="application/rss+xml" />
-	<link>http://bloomrate.ga</link>
+	<atom:link href="http://bloomrate.ml/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>http://bloomrate.ml</link>
 	<description>Let&#039;s grow your business</description>
 	<lastBuildDate>Tue, 14 Jul 2020 18:59:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,139 +21,139 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>http://bloomrate.ga/wp-content/uploads/2020/06/cropped-round-32x32.png</url>
+	<url>http://bloomrate.ml/wp-content/uploads/2020/06/cropped-round-32x32.png</url>
 	<title>Projects &#8211; Bloomrate</title>
-	<link>http://bloomrate.ga</link>
+	<link>http://bloomrate.ml</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>e-Commerce Management (Shopee)</title>
-		<link>http://bloomrate.ga/portfolio/e-commerce-management-shopee/</link>
-					<comments>http://bloomrate.ga/portfolio/e-commerce-management-shopee/#respond</comments>
+		<link>http://bloomrate.ml/portfolio/e-commerce-management-shopee/</link>
+					<comments>http://bloomrate.ml/portfolio/e-commerce-management-shopee/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Tue, 14 Jul 2020 18:58:42 +0000</pubDate>
-				<guid isPermaLink="false">http://bloomrate.ga/?post_type=portfolio&#038;p=413</guid>
+				<guid isPermaLink="false">http://bloomrate.ml/?post_type=portfolio&#038;p=413</guid>
 
 					<description><![CDATA[<p>Visit Reminiscent&#8217;s Shopee Page by clicking here: https://shopee.ph/reminiscent.ml</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/e-commerce-management-shopee/">e-Commerce Management (Shopee)</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/e-commerce-management-shopee/">e-Commerce Management (Shopee)</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Visit Reminiscent&#8217;s Shopee Page by clicking here: <a href="https://shopee.ph/reminiscent.ml">https://shopee.ph/reminiscent.ml</a></p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/e-commerce-management-shopee/">e-Commerce Management (Shopee)</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/e-commerce-management-shopee/">e-Commerce Management (Shopee)</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ga/portfolio/e-commerce-management-shopee/feed/</wfw:commentRss>
+					<wfw:commentRss>http://bloomrate.ml/portfolio/e-commerce-management-shopee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Messenger Chatbot</title>
-		<link>http://bloomrate.ga/portfolio/messenger-chatbot/</link>
-					<comments>http://bloomrate.ga/portfolio/messenger-chatbot/#respond</comments>
+		<link>http://bloomrate.ml/portfolio/messenger-chatbot/</link>
+					<comments>http://bloomrate.ml/portfolio/messenger-chatbot/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Tue, 14 Jul 2020 18:57:44 +0000</pubDate>
-				<guid isPermaLink="false">http://bloomrate.ga/?post_type=portfolio&#038;p=411</guid>
+				<guid isPermaLink="false">http://bloomrate.ml/?post_type=portfolio&#038;p=411</guid>
 
 					<description><![CDATA[<p>Bloomrate has successfully built Messenger Chatbots for Reminiscent and Team Pastry Vapors. You may try them through the links below: [&#8230;]</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/messenger-chatbot/">Messenger Chatbot</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/messenger-chatbot/">Messenger Chatbot</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Bloomrate has successfully built Messenger Chatbots for Reminiscent and Team Pastry Vapors. You may try them through the links below:</p>
 <ul>
 <li><a href="http://m.me/reminiscent.ml">Reminiscent</a></li>
 <li><a href="http://m.me/pastryvapor">Team Pastry Vapors</a></li>
 </ul>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/messenger-chatbot/">Messenger Chatbot</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/messenger-chatbot/">Messenger Chatbot</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ga/portfolio/messenger-chatbot/feed/</wfw:commentRss>
+					<wfw:commentRss>http://bloomrate.ml/portfolio/messenger-chatbot/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reminiscent Mobile-Optimized Website</title>
-		<link>http://bloomrate.ga/portfolio/reminiscent-mobile-optimized-website/</link>
-					<comments>http://bloomrate.ga/portfolio/reminiscent-mobile-optimized-website/#respond</comments>
+		<link>http://bloomrate.ml/portfolio/reminiscent-mobile-optimized-website/</link>
+					<comments>http://bloomrate.ml/portfolio/reminiscent-mobile-optimized-website/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Tue, 14 Jul 2020 18:49:17 +0000</pubDate>
-				<guid isPermaLink="false">http://bloomrate.ga/?post_type=portfolio&#038;p=409</guid>
+				<guid isPermaLink="false">http://bloomrate.ml/?post_type=portfolio&#038;p=409</guid>
 
 					<description><![CDATA[<p>Let the website speak for itself: http://reminiscent.ml/</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/reminiscent-mobile-optimized-website/">Reminiscent Mobile-Optimized Website</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/reminiscent-mobile-optimized-website/">Reminiscent Mobile-Optimized Website</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Let the website speak for itself: <a href="http://reminiscent.ml/">http://reminiscent.ml/</a></p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/reminiscent-mobile-optimized-website/">Reminiscent Mobile-Optimized Website</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/reminiscent-mobile-optimized-website/">Reminiscent Mobile-Optimized Website</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ga/portfolio/reminiscent-mobile-optimized-website/feed/</wfw:commentRss>
+					<wfw:commentRss>http://bloomrate.ml/portfolio/reminiscent-mobile-optimized-website/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sans Rival Selections e-Juice Label</title>
-		<link>http://bloomrate.ga/portfolio/sans-rival-selections-e-juice-label/</link>
-					<comments>http://bloomrate.ga/portfolio/sans-rival-selections-e-juice-label/#respond</comments>
+		<link>http://bloomrate.ml/portfolio/sans-rival-selections-e-juice-label/</link>
+					<comments>http://bloomrate.ml/portfolio/sans-rival-selections-e-juice-label/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Tue, 14 Jul 2020 18:34:25 +0000</pubDate>
-				<guid isPermaLink="false">http://bloomrate.ga/?post_type=portfolio&#038;p=407</guid>
+				<guid isPermaLink="false">http://bloomrate.ml/?post_type=portfolio&#038;p=407</guid>
 
 					<description><![CDATA[<p>Aside from taste-testing e-juice flavors, there is no other way to know, for certain, that a flavor tastes good. However, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/sans-rival-selections-e-juice-label/">Sans Rival Selections e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/sans-rival-selections-e-juice-label/">Sans Rival Selections e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Aside from taste-testing e-juice flavors, there is no other way to know, for certain, that a flavor tastes good. However, product label design can tell a lot and be used to convey a message to each viewer. Bloomrate has utilized a few techniques based on the psychology of colors and appetite in crafting the magnificent mouth-watering design of Sans Rival Selections. Ever since its release, the mixing laboratory and production team of Sans Rival Selections has never ceased to run overtimes just to catch up to the large influx of orders from wholesalers, retailers, distributors, and vape shop resellers.</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/sans-rival-selections-e-juice-label/">Sans Rival Selections e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/sans-rival-selections-e-juice-label/">Sans Rival Selections e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ga/portfolio/sans-rival-selections-e-juice-label/feed/</wfw:commentRss>
+					<wfw:commentRss>http://bloomrate.ml/portfolio/sans-rival-selections-e-juice-label/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organic Reach through Social Media Content Creation</title>
-		<link>http://bloomrate.ga/portfolio/smart-gadget/</link>
-					<comments>http://bloomrate.ga/portfolio/smart-gadget/#respond</comments>
+		<link>http://bloomrate.ml/portfolio/smart-gadget/</link>
+					<comments>http://bloomrate.ml/portfolio/smart-gadget/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Tue, 14 Jul 2020 18:28:54 +0000</pubDate>
 				<guid isPermaLink="false">http://demo.themegrill.com/flash-one-page/?post_type=portfolio&#038;p=206</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/smart-gadget/">Organic Reach through Social Media Content Creation</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/smart-gadget/">Organic Reach through Social Media Content Creation</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>From an inactive 16,000 likes Facebook Page back in October 2019, Team Pastry Vapors now has more than 23,000 likes. Through relatable and share-worthy content, Bloomrate has successfully helped Team Pastry Vapors establish a strong brand presence online on Facebook and Instagram.</p>
 <p>Bloomrate utilized multiple strategies in the execution of all the semi-experimental content. We have seized the opportunity to convert a shortage problem into a demand-inducing scarcity, which drew the curiosity of almost all vapers in the country. Right now, Pastry Vapors is known as the fastest-selling e-juice brand due to its premium quality and exceptional taste.</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/smart-gadget/">Organic Reach through Social Media Content Creation</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/smart-gadget/">Organic Reach through Social Media Content Creation</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ga/portfolio/smart-gadget/feed/</wfw:commentRss>
+					<wfw:commentRss>http://bloomrate.ml/portfolio/smart-gadget/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Captain Pastry e-Juice Label</title>
-		<link>http://bloomrate.ga/portfolio/captain-pastry-e-juice-label/</link>
-					<comments>http://bloomrate.ga/portfolio/captain-pastry-e-juice-label/#respond</comments>
+		<link>http://bloomrate.ml/portfolio/captain-pastry-e-juice-label/</link>
+					<comments>http://bloomrate.ml/portfolio/captain-pastry-e-juice-label/#respond</comments>
 		
 		<dc:creator><![CDATA[dale]]></dc:creator>
 		<pubDate>Tue, 14 Jul 2020 18:27:27 +0000</pubDate>
-				<guid isPermaLink="false">http://bloomrate.ga/?post_type=portfolio&#038;p=405</guid>
+				<guid isPermaLink="false">http://bloomrate.ml/?post_type=portfolio&#038;p=405</guid>
 
 					<description><![CDATA[<p>To seize the opportunity to upsell and introduce new products, Pastry Vapors Reloaded released Captain Pastry, a premium quality e-juice [&#8230;]</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/captain-pastry-e-juice-label/">Captain Pastry e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/captain-pastry-e-juice-label/">Captain Pastry e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>To seize the opportunity to upsell and introduce new products, Pastry Vapors Reloaded released Captain Pastry, a premium quality e-juice line. Through Bloomrate&#8217;s keen eye on design and market knowledge, it has jointly been decided to create a unique and captivating label design that is made to capture the attention of every vape shop customer. Bloomrate knows that premium quality products deserve designs that, by itself, tells that it&#8217;s premium quality&#8212;even from a distance.</p>
-<p>The post <a rel="nofollow" href="http://bloomrate.ga/portfolio/captain-pastry-e-juice-label/">Captain Pastry e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ga">Bloomrate</a>.</p>
+<p>The post <a rel="nofollow" href="http://bloomrate.ml/portfolio/captain-pastry-e-juice-label/">Captain Pastry e-Juice Label</a> appeared first on <a rel="nofollow" href="http://bloomrate.ml">Bloomrate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://bloomrate.ga/portfolio/captain-pastry-e-juice-label/feed/</wfw:commentRss>
+					<wfw:commentRss>http://bloomrate.ml/portfolio/captain-pastry-e-juice-label/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
